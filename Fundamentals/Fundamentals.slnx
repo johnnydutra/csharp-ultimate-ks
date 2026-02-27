@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="Calculator/Calculator.csproj" Id="e836ef36-0fd5-4875-890c-3651cb23f0cd" />
+  <Project Path="Content/Content.csproj" Id="85d45201-e783-49db-9b31-e8b4455f4f77" />
+  <Project Path="Exercises/Exercises.csproj" Id="fcc9fdee-087f-4dc9-8836-d20d2731e1a1" />
   <Project Path="TodoList/TodoList.csproj" />
 </Solution>
